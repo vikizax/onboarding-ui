@@ -1,6 +1,6 @@
-import { styled } from '@mui/material/styles';
+import { styled } from "@mui/material/styles";
 
-export const WelcomeContainer = styled('div')({
+export const CreateWorkspaceContainer = styled("div")({
     display: 'flex',
     flexDirection: 'column',
     width: '100%',
